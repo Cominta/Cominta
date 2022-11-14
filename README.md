@@ -39,6 +39,7 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C++" width="32" height="32"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" title="SFML" alt="SFML" width="32" height="32"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" title="SFML" alt="Cmake" width="32" height="32"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp;
   <img src="https://github.com/Cominta/Cominta/blob/main/icons/photoshop.png" title="Photoshop" alt="Photoshop" width="32" height="32"/>&nbsp;
 </div>
