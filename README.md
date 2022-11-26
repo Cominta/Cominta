@@ -28,8 +28,6 @@
 
 - :runner: I study at the computer academy IT-STEP.
 
-- :zap: In my free time, I sometimes go for a walk or coding and read technical articles.
-
 - :four_leaf_clover: Live in Odessa
 
 ---
