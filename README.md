@@ -26,15 +26,16 @@
 
 - :computer: I am writing a pet-projects, but in future i am goint to monetize:dollar: my knowledge.
 
-- :runner: I study at the computer academy IT-STEP.
+- :runner: I study computer science in Comenius University Bratislava.
 
-- :four_leaf_clover: Live in Odessa
+- :four_leaf_clover: Live in Bratislava.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/uk/thumb/8/85/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Java.png/250px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Java.png)" title="Java" alt="Java" width="32" height="32"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C++" width="32" height="32"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" title="SFML" alt="SFML" width="32" height="32"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" title="Cmake" alt="Cmake" width="32" height="32"/>&nbsp;
